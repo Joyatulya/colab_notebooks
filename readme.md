@@ -1,4 +1,4 @@
-#Colab Notebooks
+# Colab Notebooks
 
 Above are few of the different projects that I have worked. These include multilabel CXR classification tasks using tensorflow, pytorch, weights and biases,
 pytorch lightning amongst others.
